@@ -6,7 +6,7 @@ import Form from "./components/Form";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/Formm">
       <div>
         <nav>
           <ul>
